@@ -1,0 +1,1 @@
+{:rename-macros {}, :renames {}, :externs {process {on {}}, console {error {}}}, :use-macros {}, :excludes #{}, :name keechma-ssr.app, :imports nil, :requires {core keechma-ssr.core, keechma-ssr.core keechma-ssr.core, node cljs.nodejs, cljs.nodejs cljs.nodejs, mount mount.core, mount.core mount.core}, :uses nil, :require-macros {mount mount.core, mount.core mount.core}, :doc nil}
